@@ -9,3 +9,4 @@ for i, (data, label) in enumerate(train_loader):
         optimizer.step()    
 
         optimizer.zero_grad()
+# 需要注意，需要适当扩大学习率
