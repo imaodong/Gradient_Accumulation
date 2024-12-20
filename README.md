@@ -1,2 +1,2 @@
 # Gradient_Accumulation
-This is a example of gradient_accumulation.
+This is an example of gradient_accumulation.
